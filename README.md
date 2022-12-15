@@ -1,6 +1,7 @@
-# RockPaperScissors
-RockPaperScissors project made with VueJS framework - this project contains css design with tailwindcss as comments for practice.
+# Vue 3 + Vite
 
-to open this project run - npm run dev
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-![Xnip2022-12-15_20-49-24](https://user-images.githubusercontent.com/97340087/207943978-61453005-c9b9-4e9b-9638-3add3add7dc7.jpg)
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
